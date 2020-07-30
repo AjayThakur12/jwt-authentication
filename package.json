@@ -1,0 +1,19 @@
+{
+  "name": "jwt-authentication",
+  "version": "1.0.0",
+  "description": "jwt authentication node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AjayThakur12/jwt-authentication.git"
+  },
+  "author": "Ajay Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AjayThakur12/jwt-authentication/issues"
+  },
+  "homepage": "https://github.com/AjayThakur12/jwt-authentication#readme"
+}
